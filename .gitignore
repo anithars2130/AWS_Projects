@@ -1,0 +1,13 @@
+# Terraform files to ignore
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.*
+crash.log
+
+# ADD THESE LINES BELOW:
+*.tfvars
+*.tfvars.json
+override.tf
+override.tf.json
