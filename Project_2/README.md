@@ -118,11 +118,19 @@ Added public read access policy:
 ### S3 Static Web Hosting
 ![S3 Static Web Hosting](./Screenshots/s3_static_web_hosting.png)
 
+### S3 Static Web Hosting
+![S3 Static Web Hosting](./Screenshots/Static-website-URL.png)
+
 ### CloudFront Distribution
 ![CF Distribution List](./Screenshots/CloudFront_distribution_list.png)
 
 ### CloudFront Distribution Settings
 ![CF Distribution Settings](./Screenshots/CloudFront_distribution_settings.png)
+
+### CloudFront Distribution Settings
+![CF Distribution Settings](./Screenshots/CloudFront-URL.png)
+
+
 
 
 ✔️ Website loads securely using HTTPS  
